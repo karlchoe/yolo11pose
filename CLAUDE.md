@@ -81,11 +81,14 @@ venv312/Scripts/python pose_blur.py -i input.mp4 -o output.mp4 --print-cmd
 | 패키지 | 버전 |
 |--------|------|
 | torch | 2.11.0+cu128 |
+| torchvision | 0.26.0+cu128 |
+| opencv-python | 4.11.0.86 |
+| numpy | 2.4.3 |
 | ultralytics | 8.4.26 |
-| PyNvVideoCodec | 2.1.0 |
 | sahi | 0.11.36 |
+| pynvvideocodec | 2.1.0 |
 | cupy-cuda12x | 14.0.1 |
-| lapx | (ByteTrack 의존) |
+| lapx | 0.9.4 (ByteTrack 의존) |
 
 ---
 
