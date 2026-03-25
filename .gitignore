@@ -1,0 +1,23 @@
+# Python
+venv*/
+__pycache__/
+*.pyc
+*.pyd
+*.egg-info/
+
+# 모델 가중치
+*.pt
+*.onnx
+*.engine
+
+# 영상/이미지
+*.mp4
+*.avi
+*.mkv
+*.jpg
+*.jpeg
+*.png
+
+# 기타
+*.jsonl
+.env
