@@ -74,14 +74,14 @@ venv312/Scripts/python pose_blur.py -i input.mp4 -o output.mp4 --print-cmd
 - GPU: NVIDIA GeForce RTX 5050 Laptop GPU (Blackwell sm_120)
 - Python: 3.12 (venv312) — Python 3.14는 PyTorch CUDA 미지원
 - 실행 prefix: `venv312/Scripts/python pose_blur.py ...`
-- CUDA: 12.8, torch 2.11.0+cu128
+- CUDA: 13.0, torch 2.11.0+cu130
 
 ### 설치된 주요 패키지
 
 | 패키지 | 버전 |
 |--------|------|
-| torch | 2.11.0+cu128 |
-| torchvision | 0.26.0+cu128 |
+| torch | 2.11.0+cu130 |
+| torchvision | 0.26.0+cu130 |
 | opencv-python | 4.11.0.86 |
 | numpy | 2.4.3 |
 | ultralytics | 8.4.26 |

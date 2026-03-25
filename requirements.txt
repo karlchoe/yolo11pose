@@ -1,5 +1,5 @@
-torch==2.11.0+cu128
-torchvision==0.26.0+cu128
+torch==2.11.0+cu130
+torchvision==0.26.0+cu130
 opencv-python==4.11.0.86
 numpy==2.4.3
 ultralytics==8.4.26
